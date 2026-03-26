@@ -1,4 +1,4 @@
-# Hi, I'm [Guilherme Neves!] 👋
+# Hi, I'm Guilherme Neves! 👋
 
 💻 Aspiring Software Developer  
 🎓 GPSI Student  
