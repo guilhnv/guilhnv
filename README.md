@@ -1,9 +1,14 @@
-# Hi, I'm Guilherme Neves! 👋
+# Hi, I'm Guilherme Neves 👋
 
-💻 Aspiring Software Developer  
-🎓 GPSI Student  
-📍 Portugal  
+💻 Aspiring Software Developer
+🎓 GPSI Student
+📍 Portugal
 
-## 🚀 Currently learning
-- Programming (Python, C#, JavaScript)
-- Web Development (HTML)
+I enjoy building projects and learning new technologies.
+
+## 🚀 Languages & Technologies
+
+* Python
+* C#
+* JavaScript
+* HTML
