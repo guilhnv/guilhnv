@@ -11,4 +11,8 @@ I enjoy building projects and learning new technologies.
 * Python
 * C#
 * JavaScript
+
+## 🌐 Web
+
 * HTML
+* CSS
